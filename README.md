@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Masi</h1>
 <h3 align="center">A passionate Fullstack developer from Asuncion, Paraguay</h3>
 
-- 🔭 I’m currently working on **Lievito**
-
-- 🌱 I’m currently learning **Typescript, NextJs, ReactNative**
+- 🔭 I’m currently working on **Banco Continental**
 
 - 📫 How to reach me **masiivan23@gmail.com**
 
